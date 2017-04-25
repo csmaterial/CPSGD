@@ -1,4 +1,4 @@
 # CPSGD
 
 TODO:
-find how to get the data from .txt
+1. find how to get the data from .txt
